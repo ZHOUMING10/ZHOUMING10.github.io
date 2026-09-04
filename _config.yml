@@ -5,7 +5,7 @@ url: "https://ZHOUMING10.github.io"
 baseurl: ""
 
 # Google tracking id
-google-tracking-id: "UA-XXXXXXXX-X"
+# google-tracking-id: "UA-XXXXXXXX-X"
 
 #############
 # HTML Head #
@@ -13,9 +13,9 @@ google-tracking-id: "UA-XXXXXXXX-X"
 
 lang: "en"
 author: "ZHOUMING10 "
-title: " yeuchuxinming "
+title: " 周明的博客 "
 description: "电子信息大三 · 一人公司实践者"
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "周明, 全栈, 个人博客, 独立开发"
 favicon: "/img/favicon.ico"
 ################
 # Header layout#
@@ -27,7 +27,7 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Where’s your will to be weird?"
+quote: "躲天意，避因果，诸般枷锁困真我； 顺天意，承因果，今日方知我是我； 一朝悟道见真我，何惧昔日旧枷锁， 世间枷锁本是梦，无形无相亦无我。"
 me-img: "/img/jetpacktocat.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
